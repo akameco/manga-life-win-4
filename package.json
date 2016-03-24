@@ -1,0 +1,32 @@
+{
+  "name": "manga-life-win-4",
+  "version": "0.0.1",
+  "description": "fetch links from mangalifewin",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akameco/manga-life-win-4.git"
+  },
+  "keywords": [
+    "mangalifewin",
+    "4コマ",
+    "スクレイピング"
+  ],
+  "bugs": {
+    "url": "https://github.com/akameco/manga-life-win-4/issues"
+  },
+  "homepage": "https://github.com/akameco/manga-life-win-4#readme"
+}
