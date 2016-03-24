@@ -1,6 +1,6 @@
 {
   "name": "manga-life-win-4",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fetch links from mangalifewin",
   "main": "index.js",
   "dependencies": {
