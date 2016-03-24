@@ -13,3 +13,12 @@ module.exports = url => {
 			console.log(err);
 		});
 };
+
+module.exports.getImage = url => {
+	return got(url).then(res => {
+		const $ = cheerio.load(res.body);
+		return $('#extMdlSeriesMngrArticle-inner78 img').attr('src');
+	}).then(url => {
+		return got(url, {encoding: null}).then(res => res.body);
+	});
+};
