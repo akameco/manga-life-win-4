@@ -1,4 +1,4 @@
-# manga-life-win-4
+# manga-life-win-4 [![Build Status](https://travis-ci.org/akameco/manga-life-win-4.svg?branch=master)](https://travis-ci.org/akameco/manga-life-win-4)
 
 > fetch links from mangalifewin
 
