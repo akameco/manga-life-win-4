@@ -4,7 +4,7 @@
   "description": "fetch links from mangalifewin",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "got": "^6.2.0"
   },
   "devDependencies": {
