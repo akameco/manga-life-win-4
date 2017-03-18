@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "ava": "^0.17.0",
-    "xo": "^0.17.0"
+    "xo": "^0.18.0"
   },
   "scripts": {
     "test": "xo && ava"
